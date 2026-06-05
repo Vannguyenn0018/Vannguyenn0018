@@ -53,16 +53,6 @@ Developed a secure email platform with AES-256-GCM and RSA-OAEP encryption direc
 
 ---
 
-### 📊 My GitHub Stats 📊
-
-<!-- LƯU Ý: Hãy thay thế "Vannguyenn0018" bằng username chính xác của bạn nếu có thay đổi -->
-![](https://github-readme-stats.vercel.app/api?username=Vannguyenn0018&show_icons=true&theme=radial)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vannguyenn0018&layout=compact&theme=radial)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vannguyenn0018&theme=radial)
-
----
-
 ### 📞 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/van-nguyenn/)
