@@ -2,7 +2,7 @@
 
 # Hi there! I'm Nguyen Thai Thanh Van 👋
 
-### 📊 Business Data Science Student | Data Analyst Intern
+### Business Data Science Student | Data Analyst Intern
 
 Third-year Business Data Science student at the University of Banking Ho Chi Minh City with a strong foundation in Python, SQL, machine learning, and data visualization. Experienced in financial and business analytics projects involving data processing, exploratory data analysis (EDA), statistical modeling, and dashboard development.
 
@@ -33,22 +33,22 @@ Third-year Business Data Science student at the University of Banking Ho Chi Min
 
 ---
 
-### 🚀 Highlighted Projects 🚀
+### Highlighted Projects 
 
 **Financial Data Analysis for Banks (G'CONTEST 2026)**
-🏆 *Top 40 Finalist* | `Python (K-Means, PCA)`
+ *Top 40 Finalist* | `Python (K-Means, PCA)`
 Engineered an end-to-end financial performance model from 272 metrics across 27 banks and optimized profitability strategies via NIM heatmaps.
 
 **VN30 Market Structure Analysis**
-👥 *Team Leader - Score: 9/10* | `Python, Scikit-learn, Streamlit, Plotly`
+ *Team Leader - Score: 9/10* | `Python, Scikit-learn, Streamlit, Plotly`
 Built a PCA model explaining 39.4% of total market volatility and developed a Streamlit dashboard for sector rotation.
 
 **Credit Risk Assessment & Fintech Business Strategy**
-📊 `Python, K-Means, SHAP, BCG matrix`
+ `Python, K-Means, SHAP, BCG matrix`
 Trained a Random Forest model achieving a 90% recall rate on 50,000 loan records and proposed cash-flow-based lending.
 
 **SecureMail - End-to-End Encrypted Email Web App**
-🔒 *Score: 10/10* | `React, TypeScript, Web Crypto API, Gmail API`
+ *Score: 10/10* | `React, TypeScript, Web Crypto API, Gmail API`
 Developed a secure email platform with AES-256-GCM and RSA-OAEP encryption directly in the browser.
 
 ---
